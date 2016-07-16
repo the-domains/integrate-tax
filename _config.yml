@@ -1,0 +1,14 @@
+layout_spectrum: 0.8678233735263348
+typography_spectrum: 0.811477982904762
+color:
+  brandStrength: 0.18098401837050915
+  lightness: 0.09862087736837566
+  saturation: 0.12428443785756826
+  rhythmicContrast: 0.8466932589653879
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Integrate Tax
