@@ -33,6 +33,10 @@ navigation:
     url: 2016-07-21-jumpstart-your-tax-return.html
     name: Jumpstart Tax Return
     type: content
+  - id: 378409a0-1843-48c5-a89a-9081fae035c5
+    url: 2016-07-21-tax-preparer.html
+    name: Home
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91a948a-4383-42a4-a8f1-2f840c5ce507.png
 title: Taxation with Innovation
