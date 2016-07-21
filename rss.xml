@@ -4,8 +4,15 @@
         <description><![CDATA[Taxation with Innovation]]></description>
         <link>https://thegrid.ai/integrate-tax/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 18:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 18:44:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/integrate-tax/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/449fc8b0-4ba1-491a-8f9a-9f4ae00829c7.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/449fc8b0-4ba1-491a-8f9a-9f4ae00829c7.png</link>
+            <guid isPermaLink="false">020ca7b9-e7d6-4af8-838f-0367428e9f8a</guid>
+            <pubDate>Thu, 21 Jul 2016 18:43:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ac7b76d-2756-4bf1-8757-3fd59d6511a2.png">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d4ce510-3d55-47df-aa7c-ed4620e56668.gif">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d4ce510-3d55-47df-aa7c-ed4620e56668.gif</link>
             <guid isPermaLink="false">b6f7bb27-187b-4fc4-9021-3fed644362d2</guid>
-            <pubDate>Thu, 21 Jul 2016 18:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a466ccb3-9116-4c0e-b5c3-71731599640c.gif">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a466ccb3-9116-4c0e-b5c3-71731599640c.gif</link>
-            <guid isPermaLink="false">6f2ea0a2-fa55-47a5-bec4-29036f9858dd</guid>
             <pubDate>Thu, 21 Jul 2016 18:43:48 GMT</pubDate>
         </item>
     </channel>
