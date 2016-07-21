@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-21T18:18:26.481Z'
+datePublished: '2016-07-21T18:18:33.902Z'
 sourcePath: _posts/2016-04-16-femton-an-organic-workout-collection-from-ali-safa-a-and.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,8 +19,8 @@ keywords:
   - exercise
 related: []
 author: []
-dateModified: '2016-07-21T18:18:26.060Z'
-title: TESTING
+dateModified: '2016-07-21T18:18:33.432Z'
+title: ''
 app_links: []
 publisher: {}
 description: ''
@@ -32,7 +32,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# TESTING
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdb6c7a4-6fed-4596-bc7f-1c1750861002.png)
 ![Drawing inspiration from long, cold winters in Sweden spent cooped up indoors comes a new collection of workout gear designed by industrial design student Ali Safa A. Named 'Femton', the collection strives to alter public perceptions of exercise equipment while aiming to encourage healthy living and raise environmental awareness.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b91b32e8a7e4d3890e4bb1ad6b4f9d6689d6f04.jpg)
 
