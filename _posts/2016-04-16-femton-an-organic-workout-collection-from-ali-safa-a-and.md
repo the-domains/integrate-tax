@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-16T06:13:59.670Z'
+datePublished: '2016-07-21T18:18:26.481Z'
 sourcePath: _posts/2016-04-16-femton-an-organic-workout-collection-from-ali-safa-a-and.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,28 +18,22 @@ keywords:
   - hemp
   - exercise
 related: []
-author:
-  - name: ''
-    url: ''
-dateModified: '2016-07-16T06:13:59.222Z'
-title: '''Femton'': an organic workout collection from Ali Safa A and Analogue Ways.'
+author: []
+dateModified: '2016-07-21T18:18:26.060Z'
+title: TESTING
 app_links: []
-publisher:
-  name: Wallpaper*
-  domain: www.wallpaper.com
-  url: 'http://www.wallpaper.com'
-  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
-description: >-
-  Drawing inspiration from long, cold winters in Sweden spent cooped up indoors
-  comes a new collection of workout gear designed by industrial design student
-  Ali Safa A. Named 'Femton', the collection strives to alter public perceptions
-  of exercise equipment while aiming to encourage healthy living and raise
-  environmental awareness.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
+via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>'Femton': an organic workout collection from Ali Safa A and Analogue Ways.</h1><p>Drawing inspiration from long, cold winters in Sweden spent cooped up indoors comes a new collection of workout gear designed by industrial design student Ali Safa A. Named 'Femton', the collection strives to alter public perceptions of exercise equipment while aiming to encourage healthy living and raise environmental awareness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4f0a5732704ffa02391e60262502ab574155ef.jpg" /></article>
+# TESTING
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdb6c7a4-6fed-4596-bc7f-1c1750861002.png)
+![Drawing inspiration from long, cold winters in Sweden spent cooped up indoors comes a new collection of workout gear designed by industrial design student Ali Safa A. Named 'Femton', the collection strives to alter public perceptions of exercise equipment while aiming to encourage healthy living and raise environmental awareness.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b91b32e8a7e4d3890e4bb1ad6b4f9d6689d6f04.jpg)
+
+1.
