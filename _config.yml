@@ -45,6 +45,11 @@ navigation:
     url: 'https://webapp.ftb.ca.gov/refund/login.aspx?Lang=en-US'
     name: Where's my CA Refund
     type: external
+  - id: b6f7bb27-187b-4fc4-9021-3fed644362d2
+    url: >-
+      2016-07-21-federal-irs-e-file-and-printing-included-secure-online-and-essen.html
+    name: Tools & Resources
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91a948a-4383-42a4-a8f1-2f840c5ce507.png
 title: Taxation with Innovation
