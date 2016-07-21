@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/integrate-tax/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df47977-2e4b-4d0e-a407-590852bdcc49.gif">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df47977-2e4b-4d0e-a407-590852bdcc49.gif</link>
+            <guid isPermaLink="false">813bed2b-1f60-4055-87f4-8c3b9a822a9e</guid>
+            <pubDate>Thu, 21 Jul 2016 18:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/033e6db4-1bec-497d-a3c5-b5bf013e0f0a.gif">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/033e6db4-1bec-497d-a3c5-b5bf013e0f0a.gif</link>
             <guid isPermaLink="false">c2e40b78-a818-46a2-9b93-10ca8c909292</guid>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0935772-7635-480d-910a-eadab7f14a96.gif">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0935772-7635-480d-910a-eadab7f14a96.gif</link>
             <guid isPermaLink="false">980b9c33-c951-40c3-81a0-6207447a11a0</guid>
-            <pubDate>Thu, 21 Jul 2016 18:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6560eec3-3e23-4277-8070-bf67157a5c8c.gif">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6560eec3-3e23-4277-8070-bf67157a5c8c.gif</link>
-            <guid isPermaLink="false">47cf5f8d-703d-43ed-9905-15aa7f5363d8</guid>
             <pubDate>Thu, 21 Jul 2016 18:43:48 GMT</pubDate>
         </item>
     </channel>
