@@ -4,8 +4,15 @@
         <description><![CDATA[Taxation with Innovation]]></description>
         <link>https://thegrid.ai/integrate-tax/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 18:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 18:44:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/integrate-tax/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9637c0-3981-4111-956f-8a08fed7289c.gif">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9637c0-3981-4111-956f-8a08fed7289c.gif</link>
+            <guid isPermaLink="false">378409a0-1843-48c5-a89a-9081fae035c5</guid>
+            <pubDate>Thu, 21 Jul 2016 18:43:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df47977-2e4b-4d0e-a407-590852bdcc49.gif">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c16fd18-68b8-40cf-9883-d7acdd46dbdc.gif">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c16fd18-68b8-40cf-9883-d7acdd46dbdc.gif</link>
             <guid isPermaLink="false">ccc2ee91-78f9-4d1f-a954-32d40051285a</guid>
-            <pubDate>Thu, 21 Jul 2016 18:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0935772-7635-480d-910a-eadab7f14a96.gif">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0935772-7635-480d-910a-eadab7f14a96.gif</link>
-            <guid isPermaLink="false">980b9c33-c951-40c3-81a0-6207447a11a0</guid>
             <pubDate>Thu, 21 Jul 2016 18:43:48 GMT</pubDate>
         </item>
     </channel>
